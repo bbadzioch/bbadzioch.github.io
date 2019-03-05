@@ -1,9 +1,9 @@
-# CDSE Days 2018. 
-# Python Workshop 
+# CDSE Days 2018.
+# Python Workshop
 
 
-*Welcome to the Python workshop page.  Below you will find some informations about the workshop 
-and how to prepare for it. I am looking forward to meeting you on April 9. *
+*Welcome to the Python workshop page.  Below you will find some informations about the workshop
+and how to prepare for it. I am looking forward to meeting you on April 9.*
 
 *Bernard Badzioch*
 
@@ -30,8 +30,8 @@ Python packages: numpy, matplotlib, bokeh, pandas, requests, beautifulsoup4. Upg
 If you are installing Anaconda for the first time, you don't need to worry about it, everything
 is included in the distribution.  
 
-**2)** A part of the Anaconda distribution is the Jupyter Notebook app.  It can be launched by typing 
-`jupyter notebook` in a terminal (Mac and Linux)  or command prompt (Windows). Once you execute 
+**2)** A part of the Anaconda distribution is the Jupyter Notebook app.  It can be launched by typing
+`jupyter notebook` in a terminal (Mac and Linux)  or command prompt (Windows). Once you execute
 this command, a web browser will open showing Jupyter Notebook dashboard.  The following short
 video demonstrated basic functionality of the Jupyter Notebook:
 <div>
@@ -39,7 +39,7 @@ video demonstrated basic functionality of the Jupyter Notebook:
 </div>
 <br/>
 
-**3)** Launch Jupyter Notebook and open a new notebook. Copy the following code into an empty 
+**3)** Launch Jupyter Notebook and open a new notebook. Copy the following code into an empty
 notebook code cell:
 
 ```
