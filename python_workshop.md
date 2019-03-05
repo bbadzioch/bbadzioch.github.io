@@ -32,9 +32,7 @@ is included in the distribution.
 this command, a web browser should open showing Jupyter Notebook dashboard.  The following short
 video demonstrated the basic Jupyter Notebook functionality:
 
-
-<iframe width="460" height="315" src="https://www.youtube.com/embed/BJnro9jQ3fE?end=188" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BJnro9jQ3fE?end=188" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 **3)** Launch Jupyter Notebook and open a new notebook. Copy the following code into an empty 
