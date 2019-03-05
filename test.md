@@ -19,7 +19,7 @@ is included in the distribution.
 
 **2)** Open a new notebook. Copy the following code into an empty notebook cell.
 
-```python
+```
 import requests
 r = requests.get("https://git.io/fhxxf").text
 with open("cdse_resources.py", 'w') as f: f.write()
