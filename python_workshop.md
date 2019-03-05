@@ -53,7 +53,7 @@ with open("cdse_resources.py", 'w') as f: f.write(r)
 import cdse_resources
 ```
 
-**4)** Execute the cell by pressing the `Shift-Enter` keys. The code will download
+Execute the cell by pressing  `Shift-Enter` keys. The code will download
 a few files over the internet, so you need to be connected to the network before you
 execute.
 
