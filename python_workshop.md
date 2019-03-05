@@ -1,7 +1,7 @@
-# CDSE Days 2018 \\ Python Workshop 
+# CDSE Days 2018. 
+Python Workshop 
 
-## 
-
+##  General instructions
 
 * This will be a hands-on workshop - we will write code the entire time.
 All participants need to bring laptops. Any operating system (Windows/Mac/Linux) is fine.
@@ -9,8 +9,7 @@ Instructions how to install software and some additional files we will need are 
 
 * I set up a [Piazza](http://piazza.com/buffalo/spring2019/cdsepython) page
 for the workshop. Please sign up so you can post question before, during, and after
-the workshop (or perhaps comment on questions posted by others).  
-
+the workshop, or perhaps comment on questions posted by others.  
 
 
 ## Software installation
