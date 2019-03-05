@@ -8,7 +8,12 @@ files we will need.
 
 ## Software installation
 
-**1)** Install the [Anaconda distribution of Python 3.7](https://www.anaconda.com/download)
+**1)** I set up a [Piazza](htp://piazza.com/buffalo/spring2019/cdsepython) page
+for the workshop. Please sign up so you can post question before, during, and after
+the workshop (or perhaps comment on questions posted by others).  
+
+
+**2)** Install the [Anaconda distribution of Python 3.7](https://www.anaconda.com/download)
 (be sure to select the Python 3.7 version).
 
 If you have Anaconda previously installed, make sure that the you have either Python 3.6
@@ -17,55 +22,22 @@ Python packages: numpy, matplotlib, bokeh, pandas, requests, beautifulsoup4. Upg
 If you are installing Anaconda for the first time you don't need to worry about it, everything
 is included in the distribution.  
 
-**2)** Open a new notebook. Copy the following code into an empty notebook cell.
+**3)** Open a new notebook. Copy the following code into an empty notebook cell:
 
 ```
 import requests
 r = requests.get("https://git.io/fhxxf").text
-with open("cdse_resources.py", 'w') as f: f.write()
+with open("cdse_resources.py", 'w') as f: f.write(r)
 import cdse_resources
 ```
 
+**4)** Execute the cell by pressing the `Shift-Enter` keys. The code will download
+a few files over the internet, so you need to be connected to the network before you
+execute.
 
-
+If everything goes fine, you will see a message that your computer is setup
+for the workshop:
 
 ![Success](images/success.png)
 
-This little guide demonstrate how to turn any [Github](http://github.com) repository with a bunch of [Markdown](https://en.wikipedia.org/wiki/Markdown) files into a simple website using [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
-
-* You don't need to use the command line or anything other than your browser.
-* It doesn't require any knowledge in Jekyll.
-* It's completely compatible with any bunch of markdown files you already have in any existing repository without any modification to those files. That includes the basic `README.md` almost all repositories contain.
-* The markdown files will remain just as readable and usable in Github than in your website.
-
-In fact this guide uses the same configuration and can be read both in Github and in Github Pages, at your preference:
-
-* [Here is the link to the Github version](https://github.com/nicolas-van/easy-markdown-to-github-pages)
-* [Here is the link to the Github Pages version](https://nicolas-van.github.io/easy-markdown-to-github-pages/)
-
-## Step by step instructions
-
-### Determine the repository where you want to activate Github Pages
-
-You can of course create a new repository if you want.
-
-### Create the `_.config.yml` file
-
-That file should be created on the root of your repository. Here is some content to copy-paste in it:
-
-```
-plugins:
-  - jekyll-relative-links
-relative_links:
-  enabled: true
-  collections: true
-include:
-  - CONTRIBUTING.md
-  - README.md
-  - LICENSE.md
-  - COPYING.md
-  - CODE_OF_CONDUCT.md
-  - CONTRIBUTING.md
-  - ISSUE_TEMPLATE.md
-  - PULL_REQUEST_TEMPLATE.md
-```
+In case you run into difficulties please post a message on [Piazza](htp://piazza.com/buffalo/spring2019/cdsepython).
