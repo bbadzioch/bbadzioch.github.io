@@ -35,8 +35,8 @@ is included in the distribution.
 this command, a web browser will open showing Jupyter Notebook dashboard.  The following short
 video demonstrated basic functionality of the Jupyter Notebook:
 
-<div style="margin:auto; max-width: 100%;">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BJnro9jQ3fE?end=188" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div align="center">
+<iframe max-width="100%" width="560" height="315" src="https://www.youtube.com/embed/BJnro9jQ3fE?end=188" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <br/>
 
