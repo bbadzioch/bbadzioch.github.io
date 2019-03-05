@@ -33,7 +33,7 @@ this command, a web browser should open showing Jupyter Notebook dashboard.  The
 video demonstrated the basic Jupyter Notebook functionality:
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=BJnro9jQ3fE?start=0&end=188
-" target="_blank"><img src="http://img.youtube.com/vi/BJnro9jQ3fE/0.jpg"  width="240" height="180" border="10" /></a>
+" target="_blank"><img src="http://img.youtube.com/vi/BJnro9jQ3fE/0.jpg"  width="360" height="270" border="1" /></a>
 
 
 
