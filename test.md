@@ -14,8 +14,12 @@ files we will need.
 If you have Anaconda previously installed, make sure that the you have either Python 3.6
 or 3.7 and that you have fairly recent versions of the the Jupter notebook and the following
 Python packages: numpy, matplotlib, bokeh, pandas, requests, beautifulsoup4. Upgrade if needed.
-If you  installing Anaconda for the first time you don't need to worry about it, everything
+If you are installing Anaconda for the first time you don't need to worry about it, everything
 is included in the distribution.  
+
+**2)** Download the file <a download="donwload" href="/resources/cdse_resources.py">
+<code>cdse_resources.py</code></a>. 
+
 
 
 
