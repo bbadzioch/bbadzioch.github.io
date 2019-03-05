@@ -34,6 +34,7 @@ video demonstrated the basic Jupyter Notebook functionality:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BJnro9jQ3fE?end=188" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br/>
 
 **3)** Launch Jupyter Notebook and open a new notebook. Copy the following code into an empty 
 notebook code cell:
