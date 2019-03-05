@@ -2,7 +2,10 @@
 # Python Workshop 
 
 
+Welcome to the Python workshop page.  Below you will find some informations about the workshop 
+and how to prepare for it. I am looking forward to meeting you on April 9. 
 
+Bernard Badzioch
 
 
 ##  General instructions
@@ -29,8 +32,8 @@ is included in the distribution.
 
 **2)** A part of the Anaconda distribution is the Jupyter Notebook app.  It can be launched by typing 
 `jupyter notebook` in a terminal (Mac and Linux)  or command prompt (Windows). Once you execute 
-this command, a web browser should open showing Jupyter Notebook dashboard.  The following short
-video demonstrated the basic Jupyter Notebook functionality:
+this command, a web browser will open showing Jupyter Notebook dashboard.  The following short
+video demonstrated basic functionality of the Jupyter Notebook:
 <div>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BJnro9jQ3fE?end=188" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
