@@ -1,4 +1,4 @@
-# CDSE Days 2018.
+# CDSE Days 2019
 # Python Workshop
 
 
