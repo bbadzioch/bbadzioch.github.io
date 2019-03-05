@@ -10,7 +10,7 @@ and how to prepare for it. I am looking forward to meeting you on April 9!*
 
 ##  General instructions
 
-* This will be a hands-on workshop - we will work write and execute code the entire time.
+* This will be a hands-on workshop - we will write and execute code the entire time.
 All participants need to bring laptops. Any operating system (Windows/Mac/Linux) is fine.
 Instructions how to install software and additional files we will use are posted below.
 
