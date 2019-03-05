@@ -3,7 +3,7 @@
 ## Introduction
 
 
-![Success](images/success.png | width=100)
+![Success](images/success.png)
 
 This little guide demonstrate how to turn any [Github](http://github.com) repository with a bunch of [Markdown](https://en.wikipedia.org/wiki/Markdown) files into a simple website using [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
 
