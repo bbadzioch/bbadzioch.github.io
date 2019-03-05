@@ -37,6 +37,8 @@ video demonstrated the basic Jupyter Notebook functionality:
 </div>
 
 
+<br/>
+
 **3)** Launch Jupyter Notebook and open a new notebook. Copy the following code into an empty 
 notebook code cell:
 
