@@ -8,7 +8,7 @@ files we will need.
 
 ## Software installation
 
- * Install the [Anaconda distribution of Python 3.7] (https://www.anaconda.com/download)
+ * Install the [Anaconda distribution of Python 3.7](https://www.anaconda.com/download)
    (be sure to select the Python 3.7 version). If you have Anaconda previously installed,
    make sure that the you have either Python 3.6 or 3.7 and that you have fairly recent
    versions of the the Jupter notebook and the following Python packages: numpy, matplotlib,
