@@ -2,19 +2,19 @@
 
 This will be a hands-on workshop - we will write code thought it.
 All participants need to bring laptops. Any operating system (Windows/Mac/Linux) is fine.
-The instructions below describe how to install software and some additional files we will need.
+The instructions below describe how to install software and some additional
+files we will need.
 
 
 ## Software installation
 
- * Install the [Anaconda distribution of Python 3.7] (https://www.anaconda.com/download) (be sure to select the Python 3.7 version).  
-   If you have Anaconda previously installed, make sure that the you have either Python 3.6 or 3.7 and that you have fairly recent
-   versions of the following Python packages: numpy, matplotlib, bokeh, pandas, requests, beautifulsoup4. Upgrade if needed. If you are
-   installing from scratch you don't need to worry about it, everything we need is included in the Anaconnda distribution.  
+ * Install the [Anaconda distribution of Python 3.7] (https://www.anaconda.com/download)
+   (be sure to select the Python 3.7 version). If you have Anaconda previously installed,
+   make sure that the you have either Python 3.6 or 3.7 and that you have fairly recent
+   versions of the the Jupter notebook and the following Python packages: numpy, matplotlib,
+   bokeh, pandas, requests, beautifulsoup4. Upgrade if needed. If you  installing Anaconda
+   for the first time you don't need to worry about it, everything is included in the distribution.  
 
-
-
- Even if you have Python already installed on your computer you should install this distribution since it includes Jupyter notebook and several Python modules we will need.
 
 
 ![Success](images/success.png)
