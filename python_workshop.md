@@ -1,19 +1,20 @@
 # CDSE Python Workshop
 
-This will be a hands-on workshop - we will write code thought it.
+* This will be a hands-on workshop - we will write code thought it.
 All participants need to bring laptops. Any operating system (Windows/Mac/Linux) is fine.
-The instructions below describe how to install software and some additional
-files we will need.
+The instructions how to install software and some additional files we will need are below.
 
 
-## Software installation
-
-**1)** I set up a [Piazza](htp://piazza.com/buffalo/spring2019/cdsepython) page
+* I set up a [Piazza](http://piazza.com/buffalo/spring2019/cdsepython) page
 for the workshop. Please sign up so you can post question before, during, and after
 the workshop (or perhaps comment on questions posted by others).  
 
+## Software installation
 
-**2)** Install the [Anaconda distribution of Python 3.7](https://www.anaconda.com/download)
+
+
+
+**1)** Install the [Anaconda distribution of Python 3.7](https://www.anaconda.com/download)
 (be sure to select the Python 3.7 version).
 
 If you have Anaconda previously installed, make sure that the you have either Python 3.6
@@ -22,7 +23,7 @@ Python packages: numpy, matplotlib, bokeh, pandas, requests, beautifulsoup4. Upg
 If you are installing Anaconda for the first time you don't need to worry about it, everything
 is included in the distribution.  
 
-**3)** Open a new notebook. Copy the following code into an empty notebook cell:
+**2)** Open a new notebook. Copy the following code into an empty notebook cell:
 
 ```
 import requests
@@ -31,7 +32,7 @@ with open("cdse_resources.py", 'w') as f: f.write(r)
 import cdse_resources
 ```
 
-**4)** Execute the cell by pressing the `Shift-Enter` keys. The code will download
+**3)** Execute the cell by pressing the `Shift-Enter` keys. The code will download
 a few files over the internet, so you need to be connected to the network before you
 execute.
 
@@ -40,4 +41,4 @@ for the workshop:
 
 ![Success](images/success.png)
 
-In case you run into difficulties please post a message on [Piazza](htp://piazza.com/buffalo/spring2019/cdsepython).
+In case you run into difficulties please post a message on [Piazza](http://piazza.com/buffalo/spring2019/cdsepython).
