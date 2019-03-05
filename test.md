@@ -17,9 +17,9 @@ Python packages: numpy, matplotlib, bokeh, pandas, requests, beautifulsoup4. Upg
 If you are installing Anaconda for the first time you don't need to worry about it, everything
 is included in the distribution.  
 
-**2)** Download the file <a download="download" href="https://raw.githubusercontent.com/bbadzioch/CDSE-Workshop/master/cdse_resources.py">
+**2)** Download the file <a download href="https://raw.githubusercontent.com/bbadzioch/CDSE-Workshop/master/cdse_resources.py">
 <code>cdse_resources.py</code></a>.
-   
+
 
 
 
