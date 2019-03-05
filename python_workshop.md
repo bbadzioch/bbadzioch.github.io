@@ -1,6 +1,10 @@
 # CDSE Days 2018. 
 # Python Workshop 
 
+
+
+
+
 ##  General instructions
 
 * This will be a hands-on workshop - we will write code the entire time.
@@ -18,12 +22,23 @@ the workshop, or perhaps comment on questions posted by others.
 (be sure to select the Python 3.7 version).
 
 If you have Anaconda previously installed, make sure that the you have either Python 3.6
-or 3.7 and that you have fairly recent versions of the the Jupter notebook and the following
+or 3.7 and that you have fairly recent versions of the the Jupter Notebook and the following
 Python packages: numpy, matplotlib, bokeh, pandas, requests, beautifulsoup4. Upgrade if needed.
-If you are installing Anaconda for the first time you don't need to worry about it, everything
+If you are installing Anaconda for the first time, you don't need to worry about it, everything
 is included in the distribution.  
 
-**2)** Open a new notebook. Copy the following code into an empty notebook cell:
+**2)** A part of the Anaconda distribution is the Jupyter Notebook app.  It can be launched by typing 
+`jupyter notebook` in a terminal (Mac and Linux)  or command prompt (Windows). Once you execute 
+this command, a web browser should open showing Jupyter Notebook dashboard.  The following short
+video demonstrated the basic Jupyter Notebook functionality:
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=BJnro9jQ3fE?start=0&end=188
+" target="_blank"><img src="http://img.youtube.com/vi/BJnro9jQ3fE/0.jpg"  width="240" height="180" border="10" /></a>
+
+
+
+**3)** Launch Jupyter Notebook and open a new notebook. Copy the following code into an empty 
+notebook code cell:
 
 ```
 import requests
@@ -32,7 +47,7 @@ with open("cdse_resources.py", 'w') as f: f.write(r)
 import cdse_resources
 ```
 
-**3)** Execute the cell by pressing the `Shift-Enter` keys. The code will download
+**4)** Execute the cell by pressing the `Shift-Enter` keys. The code will download
 a few files over the internet, so you need to be connected to the network before you
 execute.
 
