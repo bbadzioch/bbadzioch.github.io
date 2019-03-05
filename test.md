@@ -8,7 +8,7 @@ files we will need.
 
 ## Software installation
 
- * Install the [Anaconda distribution of Python 3.7](https://www.anaconda.com/download)
+1) Install the [Anaconda distribution of Python 3.7](https://www.anaconda.com/download)
    (be sure to select the Python 3.7 version).
 
 If you have Anaconda previously installed,
