@@ -22,16 +22,19 @@ the workshop, or perhaps comment on questions posted by others.
 ## Software installation
 
 **1)** Install the [Anaconda distribution of Python 3.7](https://www.anaconda.com/download)
-(be sure to select the Python 3.7 version).
+(be sure to select the 3.7 version).
 
 If you have Anaconda previously installed, make sure that the you have either Python 3.6
-or 3.7 and that you have fairly recent versions of the the Jupter Notebook and the following
+or 3.7 and fairly recent versions of the the Jupter Notebook and the following
 Python packages: numpy, matplotlib, bokeh, pandas, requests, beautifulsoup4. Upgrade if needed.
 If you are installing Anaconda for the first time, you don't need to worry about it, everything
 is included in the distribution.  
 
-**2)** A part of the Anaconda distribution is the Jupyter Notebook app.  It can be launched by typing
-`jupyter notebook` in a terminal (Mac and Linux)  or command prompt (Windows). Once you execute
+**2)** A part of the Anaconda distribution is the Jupyter Notebook app.  It can be launched by typing:
+
+```jupyter notebook``` 
+
+in a terminal (Mac and Linux)  or command prompt (Windows). Once you execute
 this command, a web browser will open showing Jupyter Notebook dashboard.  The following short
 video demonstrates basic functionality of the Jupyter Notebook (the first 4 minutes or so will be enough for now):
 
