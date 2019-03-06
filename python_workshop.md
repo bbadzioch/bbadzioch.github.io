@@ -3,7 +3,7 @@
 
 
 *Welcome to the Python workshop page.  Below you will find some information about the workshop
-and how to prepare for it. I am looking forward to meeting you on April 9!*
+and instructions how to prepare for it. I am looking forward to meeting you on April 9!*
 
 *Bernard Badzioch*
 
