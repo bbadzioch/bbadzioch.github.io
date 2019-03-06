@@ -8,7 +8,7 @@ and instructions how to prepare for it. I am looking forward to meeting you on A
 *Bernard Badzioch*
 
 
-##  General instructions
+##  General information
 
 * This will be a hands-on workshop - we will write and execute code the entire time.
 All participants need to bring laptops. Any operating system (Windows/Mac/Linux) is fine.
