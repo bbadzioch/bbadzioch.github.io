@@ -9,13 +9,13 @@ is posted as an ipynb file (which can be downloaded and opened in Jupyter Nopteb
 and as an html file (viewable online). I did not cover Notebook 3 during the workshop
 due to lack of time.
 
-* Notebook 1: Jupyter and Python Basics:  [ipynb](CDSE_Python_1_Intro.ipynb)  [ipynb](CDSE_Python_1_Intro.html)
+* Notebook 1: Jupyter and Python Basics:  [ipynb](CDSE_Python_1_Intro.ipynb)  [html](CDSE_Python_1_Intro.html)
 
-* Notebook 2: Web Scrapping with Pandas and BeautifulSoup: [ipynb](CDSE_Python_2_Soup.ipynb)  [ipynb](CDSE_Python_2_Soup.html)
+* Notebook 2: Web Scrapping with Pandas and BeautifulSoup: [ipynb](CDSE_Python_2_Soup.ipynb)  [html](CDSE_Python_2_Soup.html)
 
-* Notebook 3: Computing with Numpy: [ipynb](CDSE_Python_3_Numpy.ipynb)  [ipynb](CDSE_Python_3_Numpy.html)
+* Notebook 3: Computing with Numpy: [ipynb](CDSE_Python_3_Numpy.ipynb)  [html](CDSE_Python_3_Numpy.html)
 
-* Notebook 4: Analyzing Data with Pandas: [ipynb](CDSE_Python_4_Pandas.ipynb)  [ipynb](CDSE_Python_4_Pandas.html)
+* Notebook 4: Analyzing Data with Pandas: [ipynb](CDSE_Python_4_Pandas.ipynb)  [html](CDSE_Python_4_Pandas.html)
 
 ---
 
