@@ -12,14 +12,13 @@ Python packages: sympy, numpy, matplotlib, bokeh, pandas, requests, beautifulsou
 Upgrade if needed. If you are installing Anaconda for the first time, you don't
 need to worry about it, everything is included in the distribution.  
 
-**2)** A part of the Anaconda distribution is the Jupyter Notebook app.  
-It can be launched by typing:
+**2)** A part of the Anaconda distribution is the Jupyter Notebook app. It can be launched by typing:
 
 ```jupyter notebook```
 
 in a terminal (Mac and Linux)  or command prompt (Windows). Once you execute
 this command, a web browser will open showing Jupyter Notebook dashboard.  Here is a short
-video which demonstrates basic features of the Jupyter Notebook. Watching the first
+video which demonstrates basic features of Jupyter Notebook. Watching the first
 4 minutes, on how to create a new notebook and work with markdown and code cells,
 is enough to get started.
 
