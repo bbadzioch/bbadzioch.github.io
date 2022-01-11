@@ -6,8 +6,7 @@
 
 Jupyter Notebook files used during this workshop are posted below. Each notebook
 is posted as an ipynb file (which can be downloaded and opened in Jupyter Noptebook)
-and as an html file (viewable online). I did not cover Notebook 3 during the workshop
-due to lack of time.
+and as an html file (viewable online). 
 
 * Notebook 1: Jupyter and Python Basics:  [ipynb](CDSE_Python_1_Intro.ipynb)  [html](CDSE_Python_1_Intro.html)
 
