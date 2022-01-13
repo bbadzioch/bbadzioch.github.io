@@ -5,29 +5,34 @@
 
 |**Speaker:** TBD |
 | **Title:** TBD |
+| **Abstract:** TBD |
 
 ## Thursday, February 24, 4:00 PM
 
 |**Speaker:** TBD |
 | **Title:** TBD |
-
+| **Abstract:** TBD |
 
 ## Thursday, March 10, 4:00 PM
 
 |**Speaker:** TBD |
 | **Title:** TBD |
+| **Abstract:** TBD |
 
 ## Thursday, March 31, 4:00 PM
 
 |**Speaker:** TBD |
 | **Title:** TBD |
+| **Abstract:** TBD |
 
 ## Thursday, April 14, 4:00 PM
 
 |**Speaker:** TBD |
 | **Title:** TBD |
+| **Abstract:** TBD |
 
 ## Thursday, April 28, 4:00 PM
 
 |**Speaker:** TBD |
 | **Title:** TBD |
+| **Abstract:** TBD |
