@@ -3,25 +3,31 @@
 
 ## Thursday, February 10
 
-|**Speaker: TBD** |
-| **Title:** |
+|**Speaker:** TBD |
+| **Title:** TBD |
 
 ## Thursday, February 24
 
-**Speaker: TBD**
+|**Speaker:** TBD |
+| **Title:** TBD |
+
 
 ## Thursday, March 10
 
-**Speaker: TBD**
+|**Speaker:** TBD |
+| **Title:** TBD |
 
 ## Thursday, March 31
 
-**Speaker: TBD**
+|**Speaker:** TBD |
+| **Title:** TBD |
 
 ## Thursday, April 14
 
-**Speaker: TBD**
+|**Speaker:** TBD |
+| **Title:** TBD |
 
 ## Thursday, April 28
 
-**Speaker: TBD**
+|**Speaker:** TBD |
+| **Title:** TBD |
