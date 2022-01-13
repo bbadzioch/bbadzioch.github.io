@@ -3,7 +3,7 @@
 
 ## Thursday, February 10
 
-**Speaker: TBD**
+|**Speaker: TBD** | **Title:** |
 
 ## Thursday, February 24
 
