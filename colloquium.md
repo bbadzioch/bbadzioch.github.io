@@ -33,6 +33,7 @@
 
 ## Thursday, April 28, 4:00 PM
 
-|**Speaker:** TBD |
+|**Speaker:**  Juanita Pinzón Caicedo, University of Notre Dame |
+|**Host:** Cagatay Kutluhan|
 | **Title:** TBD |
 | **Abstract:** TBD |
