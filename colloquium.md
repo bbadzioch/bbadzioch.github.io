@@ -37,3 +37,4 @@
 |**Host:** Cagatay Kutluhan|
 | **Title:** TBD |
 | **Abstract:** TBD |
+{: .taken}
