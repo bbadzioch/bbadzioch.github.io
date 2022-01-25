@@ -21,6 +21,7 @@
 |** Host:** Bernard Badzioch|
 | **Title:** TBD |
 | **Abstract:** TBD |
+{: .taken}
 
 ## Thursday, March 31, 4:00 PM
 
