@@ -4,30 +4,35 @@
 ## Thursday, February 10, 4:00 PM
 
 |**Speaker:** TBD |
+|** Host:** TBD|
 | **Title:** TBD |
 | **Abstract:** TBD |
 
 ## Thursday, February 24, 4:00 PM
 
 |**Speaker:** TBD |
+|** Host:** TBD|
 | **Title:** TBD |
 | **Abstract:** TBD |
 
 ## Thursday, March 10, 4:00 PM
 
-|**Speaker:** TBD |
+|**Speaker:** Cary Malkiewich, Binghamton University |
+|** Host:** Bernard Badzioch|
 | **Title:** TBD |
 | **Abstract:** TBD |
 
 ## Thursday, March 31, 4:00 PM
 
 |**Speaker:** TBD |
+|** Host:** TBD|
 | **Title:** TBD |
 | **Abstract:** TBD |
 
 ## Thursday, April 14, 4:00 PM
 
 |**Speaker:** TBD |
+|** Host:** TBD|
 | **Title:** TBD |
 | **Abstract:** TBD |
 
