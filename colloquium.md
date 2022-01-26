@@ -17,7 +17,7 @@
 
 ## Thursday, March 10, 4:00 PM
 
-|**Speaker:** Cary Malkiewich, Binghamton University |
+|**Speaker:** Cary Malkiewich, Binghamton University (remote talk)|
 |**Host:** Bernard Badzioch|
 |**Title:** TBD |
 |**Abstract:** TBD |
