@@ -11,7 +11,7 @@
 ## Thursday, February 24, 4:00 PM
 
 |**Speaker:** Gino Biondini, University at Buffalo|
-|**Host:** local speaker|
+|**Host:** local|
 |**Title:** TBD |
 |**Abstract:** TBD |
 {: .taken}
