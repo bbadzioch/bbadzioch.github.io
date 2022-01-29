@@ -14,6 +14,7 @@
 |**Host:** local speaker|
 |**Title:** TBD |
 |**Abstract:** TBD |
+{: .taken}
 
 ## Thursday, March 10, 4:00 PM
 
