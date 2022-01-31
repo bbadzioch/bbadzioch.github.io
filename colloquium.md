@@ -37,6 +37,7 @@
 |**Host:** Naoki Masuda|
 |**Title:** TBD |
 |**Abstract:** TBD |
+{: .taken}
 
 ## Thursday, April 28, 4:00 PM
 
