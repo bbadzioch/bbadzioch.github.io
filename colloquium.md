@@ -26,10 +26,11 @@
 
 ## Thursday, March 31, 4:00 PM
 
-|**Speaker:** TBD |
-|**Host:** TBD|
+|**Speaker:** Michael Brannan, University of Waterloo (remote talk) |
+|**Host:** Alex Chirvasitu|
 |**Title:** TBD |
 |**Abstract:** TBD |
+{: .taken}
 
 ## Thursday, April 14, 4:00 PM
 
