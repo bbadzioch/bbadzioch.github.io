@@ -34,7 +34,7 @@
 
 ## Thursday, April 14, 4:00 PM
 
-|**Speaker:** Peter Thomas (Case Western U) - to be confirmed |
+|**Speaker:** Peter Thomas (Case Western U) |
 |**Host:** Naoki Masuda|
 |**Title:** TBD |
 |**Abstract:** TBD |
