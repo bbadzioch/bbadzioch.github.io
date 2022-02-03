@@ -1,13 +1,6 @@
 # UB Math Colloquium Spring 2022
 
 
-## Thursday, February 10, 4:00 PM
-
-|**Speaker:** TBD |
-|**Host:** TBD|
-|**Title:** TBD |
-|**Abstract:** TBD |
-
 ## Thursday, February 24, 4:00 PM
 
 |**Speaker:** Gino Biondini, University at Buffalo|
