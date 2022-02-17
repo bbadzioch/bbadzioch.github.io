@@ -5,8 +5,8 @@
 
 |**Speaker:** Gino Biondini, University at Buffalo|
 |**Host:** --|
-|**Title:** Two adventures in integrable systems: the nonlinear Schrodinger equation with non-trivial boundary conditions
- |
+|**Title:** Two adventures in integrable systems: the nonlinear Schrodinger equation with
+ non-trivial boundary conditions |
 |**Abstract:** A significant advance in mathematical physics in the second half of the twentieth century was the development of the theory of modern integrable systems.  These systems are nonlinear evolution equations of physical significance that provide the nonlinear counterpart to the classical PDEs of mathematical physics.
 
 One such equation, and in some respects the most important one, is the nonlinear Schrödinger (NLS) equation.  The NLS equation is a universal model for weakly nonlinear dispersive wave packets, and arises in a variety of physical settings, including deep water, optics, acoustics, plasmas, condensed matter, etc.  In addition, the NLS equation is a completely integrable, infinite-dimensional Hamiltonian system, and as a result it possesses a remarkably deep and beautiful mathematical structure.  At the root of many of these properties is the existence of Lax pair, namely the fact that the NLS equation can be written as the compatibility condition of an overdetermined pair of linear ODEs.  The first half of the Lax pair for the NLS equation is an eigenvalue problem for the Zakharov-Shabat scattering problem, which is equivalent to an eigenvalue problem for a one-dimensional Dirac operator.
