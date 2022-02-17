@@ -3,10 +3,11 @@
 
 ## Thursday, February 24, 4:00 PM
 
-|**Speaker:** Gino Biondini, University at Buffalo|
-|**Host:** --|
+**Speaker:** Gino Biondini, University at Buffalo
+**Host:** --
+
 **Title:** Two adventures in integrable systems: the nonlinear Schrodinger equation with
- non-trivial boundary conditions 
+non-trivial boundary conditions 
 
 **Abstract:** A significant advance in mathematical physics in the second half of the twentieth century was the development of the theory of modern integrable systems.  These systems are nonlinear evolution equations of physical significance that provide the nonlinear counterpart to the classical PDEs of mathematical physics.
 
