@@ -4,6 +4,7 @@
 ## Thursday, February 24, 4:00 PM
 
 **Speaker:** Gino Biondini, University at Buffalo
+
 **Host:** --
 
 **Title:** Two adventures in integrable systems: the nonlinear Schrodinger equation with
