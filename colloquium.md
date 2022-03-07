@@ -1,7 +1,7 @@
 # UB Math Colloquium Spring 2022
 
 
-## Thursday, February 24, 4:00 PM
+## Thursday, February 24, 4:00 PM (rescheduled)
 
 **Speaker:** Gino Biondini, University at Buffalo
 
@@ -19,11 +19,15 @@ Even though the NLS equation has been extensively studied throughout the last si
 
 ## Thursday, March 10, 4:00 PM
 
-|**Speaker:** Cary Malkiewich, Binghamton University (remote talk)|
-|**Host:** Bernard Badzioch|
-|**Title:** TBD |
-|**Abstract:** TBD |
-{: .taken}
+**Speaker:** Cary Malkiewich, Binghamton University (remote talk)
+**Zoom link:** [https://buffalo.zoom.us/j/96998136012?pwd=MVFqVG9LZ1RaMUxjeVBadnE4Kzdndz09](https://buffalo.zoom.us/j/96998136012?pwd=MVFqVG9LZ1RaMUxjeVBadnE4Kzdndz09)
+**Host:** Bernard Badzioch
+**Title:** Brave new fixed-point theory 
+**Abstract:** The development of algebraic topology in the 20th century could be characterized as a gradual passage from combinatorial, numerical invariants such as the Betti numbers to group-valued invariants such as homology, and then from homological algebra to spectral or "brave new" algebra in the latter half of the century. In brave new algebra, integers are replaced by maps of spheres. What is amazing is that just about every concept in algebra can be transformed to accommodate this new paradigm.
+
+The effects of this development continue to ripple through topology and nearby subjects, including the very classical topic of Nielsen fixed-point theory. I'll explain how work of Dold in the 1970s and of Ponto in the 2000s and 2010s infused the "brave new" perspective into fixed point theory. The result is that, amazingly, we can now work with the Lefschetz number and its generalizations without ever triangulating or mentioning homology groups, and the definitions now generalize easily to parametrized families of fixed-point problems.
+
+
 
 ## Thursday, March 31, 4:00 PM
 
