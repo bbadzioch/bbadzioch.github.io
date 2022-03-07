@@ -1,7 +1,7 @@
 # UB Math Colloquium Spring 2022
 
 
-## Thursday, February 24, 4:00 PM (rescheduled)
+## Thursday, February 24, 4:00 PM (rescheduled - new date TBA)
 
 **Speaker:** Gino Biondini, University at Buffalo
 
