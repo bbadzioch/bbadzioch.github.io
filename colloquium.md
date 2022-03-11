@@ -23,6 +23,9 @@ Even though the NLS equation has been extensively studied throughout the last si
 
 **Zoom link:** [https://buffalo.zoom.us/j/96998136012?pwd=MVFqVG9LZ1RaMUxjeVBadnE4Kzdndz09](https://buffalo.zoom.us/j/96998136012?pwd=MVFqVG9LZ1RaMUxjeVBadnE4Kzdndz09)
 
+**[Panopto recording of the talk](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a8573f79-da05-4b2c-9f7f-ae540170c18a) (requies UB login)**
+
+
 **Host:** Bernard Badzioch
 
 **Title:** Brave new fixed-point theory 
