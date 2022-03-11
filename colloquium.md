@@ -23,9 +23,6 @@ Even though the NLS equation has been extensively studied throughout the last si
 
 **Zoom link:** [https://buffalo.zoom.us/j/96998136012?pwd=MVFqVG9LZ1RaMUxjeVBadnE4Kzdndz09](https://buffalo.zoom.us/j/96998136012?pwd=MVFqVG9LZ1RaMUxjeVBadnE4Kzdndz09)
 
-**[Panopto recording of the talk](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a8573f79-da05-4b2c-9f7f-ae540170c18a) (requies UB login)**
-
-
 **Host:** Bernard Badzioch
 
 **Title:** Brave new fixed-point theory 
@@ -34,7 +31,7 @@ Even though the NLS equation has been extensively studied throughout the last si
 
 The effects of this development continue to ripple through topology and nearby subjects, including the very classical topic of Nielsen fixed-point theory. I'll explain how work of Dold in the 1970s and of Ponto in the 2000s and 2010s infused the "brave new" perspective into fixed point theory. The result is that, amazingly, we can now work with the Lefschetz number and its generalizations without ever triangulating or mentioning homology groups, and the definitions now generalize easily to parametrized families of fixed-point problems.
 
-
+**[Panopto recording of the talk](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a8573f79-da05-4b2c-9f7f-ae540170c18a) (requies UB login)**
 
 ## Thursday, March 31, 4:00 PM
 
