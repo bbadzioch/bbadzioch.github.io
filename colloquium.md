@@ -18,13 +18,27 @@ The effects of this development continue to ripple through topology and nearby s
 
 **[Panopto recording of the talk](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a8573f79-da05-4b2c-9f7f-ae540170c18a) (requies UB login)**
 
+
 ## Thursday, March 31, 4:00 PM
 
-|**Speaker:** Michael Brannan, University of Waterloo (remote talk) |
-|**Host:** Alex Chirvasitu|
-|**Title:** TBD |
-|**Abstract:** TBD |
-{: .taken}
+**Speaker:** Michael Brannan, University of Waterloo (remote talk) 
+
+**Zoom link:** [https://buffalo.zoom.us/j/96998136012?pwd=MVFqVG9LZ1RaMUxjeVBadnE4Kzdndz09](https://buffalo.zoom.us/j/96998136012?pwd=MVFqVG9LZ1RaMUxjeVBadnE4Kzdndz09)
+
+**Host:** Alex Chirvasitu
+
+**Title:**  Quantum symmetries of graphs and non-local games.
+
+**Abstract:** Given a finite graph X, a fundamental question that one can ask about the structure of X is: "What are its symmetries?" 
+Most of the time, when we think of symmetries of X, the usual automorphism group of X comes to mind.  In this talk, 
+I will describe a more general notion of symmetry of graphs, called quantum symmetries.  Quantum symmetries of graphs 
+arise quite naturally within the framework of non-commutative geometry and are encoded by a certain universal Hopf algebra 
+(i.e., quantum group) co-acting on the algebra of functions on the vertex set of the graph.  Very recently, quantum symmetries 
+of graphs have also been found to arise within the context of two-player non-local games in quantum information theory.  
+More precisely, they encode winning entangled strategies for the so-called graph isomorphism game.  I will give a light introduction to 
+all of these ideas and highlight how tools from non-local games and representation theory combine in a very powerful way to elucidate 
+the structure of graphs, their quantum symmetries, and related operator algebra problems.
+
 
 
 ## Thursday, April 7, 4:00 PM
