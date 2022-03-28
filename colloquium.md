@@ -18,6 +18,7 @@ The effects of this development continue to ripple through topology and nearby s
 
 **[Panopto recording of the talk](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a8573f79-da05-4b2c-9f7f-ae540170c18a) (requies UB login)**
 
+-----
 
 ## Thursday, March 31, 4:00 PM
 
@@ -39,7 +40,7 @@ More precisely, they encode winning entangled strategies for the so-called graph
 all of these ideas and highlight how tools from non-local games and representation theory combine in a very powerful way to elucidate 
 the structure of graphs, their quantum symmetries, and related operator algebra problems.
 
-
+-----
 
 ## Thursday, April 7, 4:00 PM
 
@@ -56,7 +57,7 @@ One such equation, and in some respects the most important one, is the nonlinear
 
 Even though the NLS equation has been extensively studied throughout the last sixty years, it continues to reveal new phenomena and offer many surprises.  In particular, the focusing NLS equation with nontrivial boundary conditions has received renewed attention in recent years.  This talk is devoted to presenting two recent results in this regard.  Specifically, I will discuss: (i) A characterization of the universal nonlinear stage of modulational instability, achieved by studying the long-time asymptotics of solutions of the NLS equation with non-zero background; (ii) A characterization of a two-parameter family of elliptic finite-band potentials of the non-self-adjoint ZS operator, which are associated with purely real spectrum of Hill's equation (i.e., the time-independent Schrodinger equation with periodic coefficients) with a suitable complex potential.
 
-
+-----
 
 ## Thursday, April 14, 4:00 PM
 
@@ -65,6 +66,8 @@ Even though the NLS equation has been extensively studied throughout the last si
 |**Title:** TBD |
 |**Abstract:** TBD |
 {: .taken}
+
+-----
 
 ## Thursday, April 28, 4:00 PM
 
