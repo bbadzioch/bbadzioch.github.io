@@ -20,6 +20,9 @@ The effects of this development continue to ripple through topology and nearby s
 
 -----
 
+&nbsp;
+&nbsp;
+
 ## Thursday, March 31, 4:00 PM
 
 **Speaker:** Michael Brannan, University of Waterloo (remote talk) 
@@ -42,6 +45,9 @@ the structure of graphs, their quantum symmetries, and related operator algebra 
 
 -----
 
+&nbsp;
+&nbsp;
+
 ## Thursday, April 7, 4:00 PM
 
 **Speaker:** Gino Biondini, University at Buffalo
@@ -59,15 +65,46 @@ Even though the NLS equation has been extensively studied throughout the last si
 
 -----
 
+&nbsp;
+&nbsp;
+
 ## Thursday, April 14, 4:00 PM
 
-|**Speaker:** Peter Thomas (Case Western U) |
-|**Host:** Naoki Masuda|
-|**Title:** TBD |
-|**Abstract:** TBD |
-{: .taken}
+**Speaker:** Peter Thomas (Case Western U) 
+
+**Host:** Naoki Masuda\
+
+**Title:** Phase and phase-amplitude reduction for stochastic oscillators
+
+**Abstract:** Phase reduction is a powerful and widely used tool for studying synchronization,
+entrainment, and parametric sensitivity of limit cycle oscillators. The
+classical phase reduction framework goes back at least 50 years for
+deterministic ODE systems. In both natural and engineered systems, however,
+stochastic dynamics are ubiquitous.  For stochastic systems, the appropriate
+analog of phase reduction remains a matter of debate. In 2013 Schwabedal and
+Pikovsky introduced a notion of phase reduction for stochastic oscillators based
+on a first-passage-time analysis. In 2014 Thomas and Lindner introduced an alternative
+asymptotic phase for Markovian stochastic oscillators based on a spectral
+decomposition of the Koopman operator (a.k.a. the generator of the Markov process,
+or the adjoint Kolmogovor operator). I will report on recent advances in
+understanding and expanding these ideas, including (i) reformulation of the
+first-passage-time (FPT) phase in terms of the solution of a partial
+differential equation with nonstandard boundary conditions, (ii) quantitative
+comparison of the FPT and spectral phase for planar stochastic systems, and
+(iii) extension of the spectral phase to a novel "phase-amplitude" reduction for
+stochastic oscillators.
+
+This is joint work with Benjamin Lindner (Humboldt University, Dept. of Physics
+and Bernstein Center for Computational Neuroscience) and Alberto Perez-Cervera
+(Complutense University of Madrid, Dept. of Applied Mathematics).
+
+
+
 
 -----
+
+&nbsp;
+&nbsp;
 
 ## Thursday, April 28, 4:00 PM
 
