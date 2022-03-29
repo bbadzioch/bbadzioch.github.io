@@ -72,7 +72,7 @@ Even though the NLS equation has been extensively studied throughout the last si
 
 **Speaker:** Peter Thomas (Case Western U) 
 
-**Host:** Naoki Masuda\
+**Host:** Naoki Masuda
 
 **Title:** Phase and phase-amplitude reduction for stochastic oscillators
 
