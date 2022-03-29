@@ -6,8 +6,6 @@
 
 **Speaker:** Cary Malkiewich, Binghamton University (remote talk)
 
-**Zoom link:** [https://buffalo.zoom.us/j/96998136012?pwd=MVFqVG9LZ1RaMUxjeVBadnE4Kzdndz09](https://buffalo.zoom.us/j/96998136012?pwd=MVFqVG9LZ1RaMUxjeVBadnE4Kzdndz09)
-
 **Host:** Bernard Badzioch
 
 **Title:** Brave new fixed-point theory 
