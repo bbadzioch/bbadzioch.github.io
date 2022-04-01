@@ -41,6 +41,10 @@ More precisely, they encode winning entangled strategies for the so-called graph
 all of these ideas and highlight how tools from non-local games and representation theory combine in a very powerful way to elucidate 
 the structure of graphs, their quantum symmetries, and related operator algebra problems.
 
+
+**[Panopto recording of the talk](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=df715de0-261b-4712-8798-ae69016224f0) (requies UB login)**
+**[Slides (PDF)](colloquium_files/2022_03_31_michael_brannan.pdf)** 
+
 -----
 
 &nbsp;
