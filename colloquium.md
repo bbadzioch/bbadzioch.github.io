@@ -43,6 +43,7 @@ the structure of graphs, their quantum symmetries, and related operator algebra 
 
 
 **[Panopto recording of the talk](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=df715de0-261b-4712-8798-ae69016224f0) (requies UB login)**
+
 **[Slides (PDF)](colloquium_files/2022_03_31_michael_brannan.pdf)** 
 
 -----
