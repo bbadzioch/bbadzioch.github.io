@@ -66,6 +66,9 @@ One such equation, and in some respects the most important one, is the nonlinear
 
 Even though the NLS equation has been extensively studied throughout the last sixty years, it continues to reveal new phenomena and offer many surprises.  In particular, the focusing NLS equation with nontrivial boundary conditions has received renewed attention in recent years.  This talk is devoted to presenting two recent results in this regard.  Specifically, I will discuss: (i) A characterization of the universal nonlinear stage of modulational instability, achieved by studying the long-time asymptotics of solutions of the NLS equation with non-zero background; (ii) A characterization of a two-parameter family of elliptic finite-band potentials of the non-self-adjoint ZS operator, which are associated with purely real spectrum of Hill's equation (i.e., the time-independent Schrodinger equation with periodic coefficients) with a suitable complex potential.
 
+**[Panopto recording of the talk](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4d3810bf-6bff-4335-b93c-ae7001603419) (requies UB login)**
+
+
 -----
 
 &nbsp;
@@ -73,7 +76,7 @@ Even though the NLS equation has been extensively studied throughout the last si
 
 ## Thursday, April 14, 4:00 PM
 
-**Speaker:** Peter Thomas (Case Western U) 
+**Speaker:** Peter Thomas, Case Western U 
 
 **Host:** Naoki Masuda
 
@@ -111,8 +114,17 @@ and Bernstein Center for Computational Neuroscience) and Alberto Perez-Cervera
 
 ## Thursday, April 28, 4:00 PM
 
-|**Speaker:**  Juanita Pinzón Caicedo, University of Notre Dame |
-|**Host:** Cagatay Kutluhan|
-|**Title:** TBD |
-|**Abstract:** TBD |
-{: .taken}
+**Speaker:**  Juanita Pinzón Caicedo, University of Notre Dame
+
+**Host:** Cagatay Kutluhan
+
+**Title:** Four-manifolds and knot concordance.
+
+**Abstract:** The study of 4-dimensional objects is special: a manifold can admit infinitely 
+many non-equivalent smooth structures, and manifolds can be homeomorphic but not diffeomorphic. 
+This difference between topological and smooth structures, can be addressed in terms of the study 
+of knots as boundaries of surfaces embedded in 4D space. In this talk I will focus on some knot 
+operators known as satellites and will show that satellites can bound very different surfaces in 
+the smooth and topological category.
+
+This talk is organized jointly by the Department of Mathematics and the UB chapter of AWM. 
