@@ -1,5 +1,5 @@
 # IAD Days 2023
-# Pandas Workshop
+# Pandas for non programmers
 
 <br/>
 
