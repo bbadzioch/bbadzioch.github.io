@@ -5,18 +5,18 @@
 ##  General information
 
 * Pandas is a Python library for processing tabular data (such as data stored in Excel
-  spreadsheet, CSV files etc.). The main goal of this workshop is to provide an introduction
-  to basic pandas functionality and show examples how to use it in practice.
+spreadsheet, CSV files etc.). The main goal of this workshop is to provide an introduction
+to basic pandas functionality and show examples how to use it in practice.
 
 * While prior programming expericence will be useful, it is not required.
 
 * This will be a hands-on workshop - we will write and execute code the entire time.
-  All participants should to bring laptops. Any operating system (Windows/Mac/Linux) is fine.
-  We will be using Python and Jupyter notebook as a programming environment.
-  Instructions how to install this software and additional are posted below.
+All participants should to bring laptops. Any operating system (Windows/Mac/Linux) is fine.
+We will be using Python and Jupyter notebook as a programming environment.
+Instructions how to install this software and additional are posted below.
 
 * Please feel free to contact me with any questions at
-  [badzioch@buffalo.edu]((mailto:badzioch@buffalo.edu?subject=pandas%20workshop)
+[badzioch@buffalo.edu](mailto:badzioch@buffalo.edu?subject=pandas%20workshop)
 
 
 ## Software installation
