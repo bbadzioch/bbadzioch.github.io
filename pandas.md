@@ -42,3 +42,17 @@ video which demonstrates basic functionality of Jupyter Notebook (watching the f
 <iframe  max-width="100%" width="560px" height="315px" src="https://www.youtube.com/embed/BJnro9jQ3fE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <br/>
+
+
+## Sample files
+
+Here are a few csv files that will be used during the workshop
+
+* [planets.cvs](planets.csv)
+* [exam_scores.cvs](exam_scores.csv)
+* [flights.csv](flights.csv)
+* [tips.csv](tips.csv)
+* [section_1.csv](section_1.csv)
+* [section_2.csv](section_2.csv)
+* [courses.csv](courses.csv)
+* [instructors.csv](instructors.csv)

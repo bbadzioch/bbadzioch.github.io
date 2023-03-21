@@ -1,0 +1,10 @@
+name,diameter,avg_temp,gravity
+Mercury,4879,167,3.7
+Venus,12104,464,8.9
+Earth,12756,15,9.8
+Mars,6792,-65,3.7
+Jupyter,142984,-110,23.1
+Saturn,120536,-140,9.0
+Uranus,51118,-195,8.7
+Neptune,49528,-200,11.0
+Pluto,2370,-225,0.7
